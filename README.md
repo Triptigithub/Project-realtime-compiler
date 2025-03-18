@@ -31,3 +31,14 @@
 After entering room
 ![image](https://github.com/Triptigithub/Project-realtime-compiler/assets/97337950/3fa1289c-6a82-4506-af31-0a06c258feec)
 
+
+## 💡 Future Enhancements  
+- **User Authentication** – Sign in for a personalized experience  
+- **Theme Customization** – Dark mode and custom editor themes  
+- **File Sharing** – Upload and share files within rooms  
+- **Voice & Video Integration** – Discuss code live with peers  
+
+## 🙌 Contributors  
+👤 **Tripti Aggarwal** – [GitHub](https://github.com/Triptigithub)  
+
+
